@@ -17,7 +17,7 @@ function addNoSign(config: RequestConfig): RequestConfig {
  */
 function addSign(
   config: RequestConfig,
-  secretKey: string = '048a9c4943398714b356a696503d2d36'
+  secretKey: string = ''
 ): RequestConfig {
   const { options, url } = config
   const newOptions: IObecjt = { ...options }
