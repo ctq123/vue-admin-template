@@ -1,4 +1,4 @@
-import UmiRequest from '@du/umi-request'
+import UmiRequest from '@my-util/umi-request'
 
 /**
  * COE清关放行列表-查询列表

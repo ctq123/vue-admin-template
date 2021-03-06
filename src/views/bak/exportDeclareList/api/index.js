@@ -1,4 +1,4 @@
-import UmiRequest from '@du/umi-request'
+import UmiRequest from '@my-util/umi-request'
 
 /**
  * 跨境出口申报管理列表-查询列表
